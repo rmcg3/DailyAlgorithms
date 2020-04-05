@@ -6,7 +6,6 @@
 package daily_algs;
 
 /**
- *
  * @author ryanm
  */
 import java.util.*;
