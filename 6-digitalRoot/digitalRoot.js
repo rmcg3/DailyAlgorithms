@@ -15,5 +15,5 @@ function digital_root(n) {
        return digital_root(sum);
      }
 }
-var nummy = 493193;
-console.log(digital_root(nummy))
+var num = 493193;
+console.log(digital_root(num))
